@@ -224,11 +224,3 @@ using namespace std;
 //     else
 //         cout << " false"<<endl;
 // }
-
-
-                           //Problem12
-
-
-
-
-
